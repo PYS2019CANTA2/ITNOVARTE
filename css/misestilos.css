@@ -1,0 +1,45 @@
+.fondo-oscuro{
+    background-color: darkslategray;
+}
+.fondo-slider{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 30px;
+    padding-top: 0px!Important
+}
+
+.fondo-alternativo{
+    background-color: rgba(232, 196, 80, 1);
+}
+.titulo{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px!Important;
+}
+
+.subtitulo{
+    color: lightslategray;
+}
+
+.parrafo{
+    color: blue
+}
+
+
+.textSize30{
+    font-size: 30px!Important;
+}.textSize20{
+    font-size: 20px!Important;
+}
+.left{
+    text-align: left!Important;
+}
+.right{
+    text-align: right!Important;
+}
+.center{
+    text-align: center!Important;
+}
+.justify{
+    text-align: justify!Important;
+}
